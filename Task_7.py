@@ -2,8 +2,6 @@
 # Write this in one line of Python.
 # Ask the user for a number and return a list that contains only elements from the original list a that are smaller than that number given by the user.
 
-
-
 my_lists = [1, 10, 2, 5, 6, 8, 9, 20]
 
 new_list = []
